@@ -11,3 +11,9 @@ Key Points:
 Disclaimer: Pipeline related code has been inspired by Matthew Mayo's blog on KDNuggests.
 
 Code: Churn_Prediction.py
+
+# Model Optimization with Hyperparameter Tuning
+
+Ref:  
+https://machinelearningmastery.com/configure-gradient-boosting-algorithm/  
+https://shankarmsy.github.io/stories/gbrt-sklearn.html  
