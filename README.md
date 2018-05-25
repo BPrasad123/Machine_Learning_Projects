@@ -17,3 +17,12 @@ Code: Churn_Prediction.py
 Ref:  
 https://machinelearningmastery.com/configure-gradient-boosting-algorithm/  
 https://shankarmsy.github.io/stories/gbrt-sklearn.html  
+
+
+## GBM ##
+Ref:  
+https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/  
+https://nycdatascience.com/blog/meetup/featured-talk-1-kaggle-data-scientist-owen-zhang/  
+https://shankarmsy.github.io/stories/gbrt-sklearn.html  
+https://effectiveml.com/using-grid-search-to-optimise-catboost-parameters.html  
+https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html  
