@@ -26,3 +26,10 @@ https://nycdatascience.com/blog/meetup/featured-talk-1-kaggle-data-scientist-owe
 https://shankarmsy.github.io/stories/gbrt-sklearn.html  
 https://effectiveml.com/using-grid-search-to-optimise-catboost-parameters.html  
 https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html  
+
+
+# Catboost #
+When the dataset contains many categorical features, catboost seems to be working pretty well among other gradient boosting based algorithms. With catboost, there is no need of explicit one-hot encoding.  
+
+Code: Catboost.py  
+Some part of the code has been reused from other posts.
