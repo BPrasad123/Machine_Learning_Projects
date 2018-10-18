@@ -48,7 +48,7 @@ Further reading: https://medium.com/analytics-vidhya/building-a-simple-chatbot-i
 
 ## Insights ##
 
-Code: Sophisticated Excel Reporting in Python.py  
+Code: Sophisticated Excel Reporting in Python.py, Excel Reporting in Python.py  
 
 While working on data science project there would be circumstances, team needs to provide repeatitive reports as insights for business to compare how the data science projects are helping them. It would be time consuming task to create such reports manually everytime. We can automate the task in Python that would create fancy excel report for business to look into.  
 
