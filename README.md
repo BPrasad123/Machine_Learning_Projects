@@ -14,13 +14,13 @@ Disclaimer: Pipeline related code has been inspired by Matthew Mayo's blog on KD
 
 # Model Optimization with Hyperparameter Tuning
 
-Ref:  
+Further reading:  
 https://machinelearningmastery.com/configure-gradient-boosting-algorithm/  
 https://shankarmsy.github.io/stories/gbrt-sklearn.html  
 
 
 ## GBM ##
-Ref:  
+Further reading:  
 https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/  
 https://nycdatascience.com/blog/meetup/featured-talk-1-kaggle-data-scientist-owen-zhang/  
 https://shankarmsy.github.io/stories/gbrt-sklearn.html  
@@ -38,11 +38,11 @@ Disclaimer: Some part of the code has been reused from other posts.
 
 ## Chatbot ##
 
-Code: 
+Code: Chatbot.py
 
-There are numerous use cases where a simple conversational chatbot can fetch the data from a table based on the input criteria mentioned in the user input. NLTK can be used to clean and normalize both the tabular data and user input for attribute and value selection. Column names in the table can be attributed as entity where the specified operation on the fetched data can be interpreted as intent for a chatbot model to execute successfully.  
+There are numerous use cases where a simple conversational chatbot can fetch the data from a table based on the input criteria mentioned in the user input. NLTK can be used to clean and normalize both the tabular data and user input for attribute and value selection. Column names can be segregated as entities and intents for the bot to operate. Moreover the type of the operation can read as intent from the user input.  
 
-Ref: https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e  
+Further reading: https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e  
 
 
 
