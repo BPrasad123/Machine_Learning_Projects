@@ -1,5 +1,7 @@
 # Churn Prediction
 
+Code: Churn_Prediction.py
+
 This is a project to predict the churn in an organization. 
 
 Key Points:
@@ -8,9 +10,7 @@ Key Points:
 3. GridSearchCV has been used for hyperparameter optimization
 4. Pipeline has been used for ease of model execution and finding the best performing model based on accurracy.
 
-Disclaimer: Pipeline related code has been inspired by Matthew Mayo's blog on KDNuggests.
-
-Code: Churn_Prediction.py
+Disclaimer: Pipeline related code has been inspired by Matthew Mayo's blog on KDNuggests.  
 
 # Model Optimization with Hyperparameter Tuning
 
@@ -29,7 +29,20 @@ https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html
 
 
 # Catboost #
-When the dataset contains many categorical features, catboost seems to be working pretty well among other gradient boosting based algorithms. With catboost, there is no need of explicit one-hot encoding.  
 
 Code: Catboost.py  
-Some part of the code has been reused from other posts.
+
+When the dataset contains many categorical features, catboost seems to be working pretty well among other gradient boosting based algorithms. With catboost, there is no need of explicit one-hot encoding.  
+
+Disclaimer: Some part of the code has been reused from other posts.  
+
+## Chatbot ##
+
+Code: 
+
+There are numerous use cases where a simple conversational chatbot can fetch the data from a table based on the input criteria mentioned in the user input. NLTK can be used to clean and normalize both the tabular data and user input for attribute and value selection. Column names in the table can be attributed as entity where the specified operation on the fetched data can be interpreted as intent for a chatbot model to execute successfully.  
+
+Ref: https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e  
+
+
+
